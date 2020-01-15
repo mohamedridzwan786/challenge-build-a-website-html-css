@@ -1,0 +1,143 @@
+header {
+    background-color: #3a3a3a;
+}
+
+footer {
+    background-color: #3a3a3a;
+}
+
+body {
+    margin:0;
+    padding:0;
+    background-color: lightgray;
+}
+
+#headbox {
+    height:75px; 
+    width:100%;
+    background-color:#3a3a3a;
+    
+    
+}
+
+#footbox {
+    height:100px;
+    width:100%;
+    background-color:#3a3a3a;
+    margin-top:8%;
+    margin-bottom: 0px;
+
+
+
+
+}
+
+#btncenter {
+    font-family: 'Solway', serif;
+    font-size: medium;
+    text-decoration: underline;
+    color:white;
+    background-color: transparent;
+    border:none;
+    position: relative;
+    left: 590px;
+    top: 25px;
+    
+}
+
+#btnleft {
+    font-family: 'Solway', serif;
+    font-size: medium;
+    text-decoration: underline;
+    color:white;
+    background-color: transparent;
+    border:none;
+    position: relative;
+    left: 540px;
+    top: 25px;
+}
+
+#btnright {
+    font-family: 'Solway', serif;
+    font-size: medium;
+    text-decoration: underline;
+    color:white;
+    background-color: transparent;
+    border:none;
+    position: relative;
+    left: 630px;
+    top: 25px;
+}
+
+
+#mainfont {
+
+    font-family: 'Solway', serif;
+    text-align: center;
+    font-size: xx-large;
+}
+
+#mainfont2 {
+
+    font-family: 'Solway', serif;
+    text-align: center;
+    font-size: x-large;
+    
+    
+}
+
+#mainfont3 {
+
+    font-family: 'Solway', serif;
+    text-align: center;
+    font-size: large;
+    
+}
+
+#mainfont4 {
+    
+    height: fit-content;
+    width: fit-content;
+    font-family: 'Solway', serif;
+    text-align: center;
+    font-size: large;
+    margin-top: 20px;
+    margin: auto;
+    position: relative;
+    top: 24px;
+    
+
+    
+}
+
+
+#bookjpg {
+    margin-left: 40%;
+}
+
+#dotbox {
+    width:800px;
+    height:200px;
+    background-color: transparent;
+    border-style: dashed;
+    border-color:#3a3a3a;
+    margin-left: 24%;
+    position: relative;
+    top: 20px;
+}
+
+#yellowbox {
+    height:50px;
+    width:380px;
+    background-color: #f5e131;
+    margin: auto;
+    border-radius: 10px;
+    position: relative;
+    bottom:30px;
+    align-content: space-around;
+    padding-top: 1px;
+    padding-bottom: 7px;
+    
+
+    
+}
